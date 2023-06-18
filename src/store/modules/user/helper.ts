@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://profile-avatar.csdnimg.cn/f4cd7f0270d0484ea3a175eabdee1ca5_weixin_64911575.jpg!1',
       name: 'KKONE',
-      description: 'Star on <a ""</a>',
+      description: '',
     },
   }
 }
